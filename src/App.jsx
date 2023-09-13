@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Shahbaz Ali",
   title: "Web Designer & .Net Developer",
-  email: "shahbazghafil@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "Shahbaz,Ali@studentambassador.com",
+  gitHub: "ShahbazShaddy",
+  instagram: "",
+  linkedIn: "www.linkedin.com/in/shahbaz-ghafil-606783268",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
